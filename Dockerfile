@@ -1,4 +1,4 @@
-FROM telethonArab/Arab:slim-buster
+FROM omar1211/S1S:slim-buster
 
 #clonning repo 
 RUN git clone https://github.com/omar1211/S1S/tree/master.git /root/Arab
